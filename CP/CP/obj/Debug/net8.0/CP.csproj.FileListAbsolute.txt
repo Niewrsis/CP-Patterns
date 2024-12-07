@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\bin\Debug\net8.0\CP.exe
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\bin\Debug\net8.0\CP.deps.json
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\bin\Debug\net8.0\CP.runtimeconfig.json
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\bin\Debug\net8.0\CP.dll
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\bin\Debug\net8.0\CP.pdb
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\obj\Debug\net8.0\CP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\obj\Debug\net8.0\CP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\obj\Debug\net8.0\CP.AssemblyInfo.cs
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\obj\Debug\net8.0\CP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\obj\Debug\net8.0\CP.dll
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\obj\Debug\net8.0\refint\CP.dll
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\obj\Debug\net8.0\CP.pdb
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\obj\Debug\net8.0\CP.genruntimeconfig.cache
+C:\Users\User\source\repos\CP-Pat\CP-Patterns\CP\CP\obj\Debug\net8.0\ref\CP.dll
